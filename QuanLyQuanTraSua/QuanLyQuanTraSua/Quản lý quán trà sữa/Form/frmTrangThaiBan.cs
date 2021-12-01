@@ -20,6 +20,7 @@ namespace Quản_lý_quán_trà_sữa
         {
             MessageBox.Show("Mệt quá!");
             MessageBox.Show("Mệt quá! =))))");
+            MessageBox.Show("Thử lại lần nữa!");
         }
     }
 }
