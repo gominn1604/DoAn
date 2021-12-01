@@ -19,6 +19,7 @@ namespace Quản_lý_quán_trà_sữa
         public void MetMoi()
         {
             MessageBox.Show("Mệt quá!");
+            MessageBox.Show("Mệt quá! =))))");
         }
     }
 }
